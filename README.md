@@ -1,6 +1,6 @@
 # Nixie Timer
 
-![steins_gate_0_sample.png](Nixie Tubes/Stein's Gate 0/steins_gate_0_sample.png)
+![steins_gate_0_sample](https://github.com/Furaime/NixieTimer/blob/4485e1749438a5cffd69b55944b6eb7e80cd6535/Nixie%20Tubes/Stein's%20Gate%200/steins_gate_0_sample.png)
 
 Nixie Timer is an image based timer with nixie tube theme from the TV show/Game/Anime Steins;Gate made with python.
 
